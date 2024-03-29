@@ -4,10 +4,13 @@ In the game of Nim, players take turns removing objects from piles, with the goa
 # Understanding the Code
 nim.py
 Nim Class: Represents a game of Nim. The class provides methods for initializing the game, determining available actions, switching players, and making moves.
+
 nim_ai.py
 NimAI Class: Represents the AI player that learns to play Nim using Q-learning. It contains methods for updating Q-values, choosing actions, and training the AI.
+
 train Function
 Trains the Nim AI by simulating games against itself and updating Q-values based on the outcomes.
+
 play Function
 Allows a human player to play a game of Nim against the trained AI.
 
