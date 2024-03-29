@@ -13,8 +13,11 @@ Allows a human player to play a game of Nim against the trained AI.
 
 # Implementation Details
 States: Represented as the current size of all piles.
+
 Actions: A pair of integers (i, j), representing the action of taking j objects from pile i.
+
 Q-Learning: Q-values are updated based on rewards received for actions and estimates of future rewards.
+
 Epsilon-Greedy Algorithm: Balances exploration and exploitation by selecting actions greedily or randomly.
 
 # To Run the Project
