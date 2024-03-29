@@ -27,6 +27,7 @@ Epsilon-Greedy Algorithm: Balances exploration and exploitation by selecting act
 
 # To Run the Project
 Open a terminal or command prompt in the project directory.
+
 python play.py
 
 --
