@@ -30,6 +30,6 @@ Open a terminal or command prompt in the project directory.
 
 python play.py
 
---
+# 
 
 Made for CS50 AI
